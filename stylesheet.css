@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
 
+
 body {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
@@ -1288,7 +1289,7 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Gabriola';
+	font-family: 'Gabriela', serif;
 	font-size: 30px;
 	text-transform: uppercase;
 	color: #C4515C;
